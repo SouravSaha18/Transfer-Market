@@ -1,0 +1,36 @@
+.header-design {
+    max-height: 511px;
+}
+
+
+.img-top {
+    width: 250.264px;
+    height: 400.76px;
+    flex-shrink: 0;
+}
+
+.img-logo {
+    transform: rotate(15deg);
+}
+
+.img-card {
+    width: 122.311px;
+    height: 145.244px;
+    border: 2px solid blue;
+}
+
+.img-ball {
+    width: 170.081px;
+    height: 159.934px;
+}
+
+.headline {
+    color: #FF5E19;
+    text-align: center;
+    font-family: Berkshire Swash;
+    font-size: 76px;
+    font-style: bold;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+}
